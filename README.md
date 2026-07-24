@@ -7,8 +7,15 @@ A modern, elegant, and fully responsive beauty salon website built using **HTML*
 🔗  https://arvaa11.github.io/Glow-Salon/
 
 ## Preview
+## Hero Section
+![Home Page](Screenshots\heroSection.png)
+## About Section
+![About Section](Screenshots\AboutSection.png)
+## Services Section
+!Services Section](Screenshots\Services.png)
+## Contact Info Section
+!Contact Info Section](Screenshots\Contact.png)
 
-Add a screenshot or GIF of the homepage here.
 
 ## Features
 
