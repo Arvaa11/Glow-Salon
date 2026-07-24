@@ -4,7 +4,7 @@ A modern, elegant, and fully responsive beauty salon website built using **HTML*
 
 ##  Live Demo
 
-🔗 Add your GitHub Pages link here after deployment.
+🔗  https://arvaa11.github.io/Glow-Salon/
 
 ## Preview
 
